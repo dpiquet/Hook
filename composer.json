@@ -2,7 +2,7 @@
     "name": "dpiquet/hook",
     "description": "PHP Framework independant hook system",
     "type": "library",
-    "license": "GPLv3",
+    "license": "GPL-3.0-or-later",
     "authors": [
         {
             "name": "Damien PIQUET",
